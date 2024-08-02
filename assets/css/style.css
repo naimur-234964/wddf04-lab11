@@ -1,0 +1,78 @@
+/* Common styles start */
+.container {
+    border: 1px solid red;
+    width: 90%;
+    box-sizing: border-box;
+    margin: 0px auto;
+}
+body{
+    margin: 0px;
+}
+.float-left{
+    height: 100%;
+    box-sizing: border-box;
+    border: 1px solid green;
+    float: left;
+}
+.w-25{
+    width: 25%;
+}
+.w-50{
+    width: 50%;
+}
+.w-75{
+    width: 75%;
+}
+.w-100{
+    width: 100%;
+}
+/* Common styles end */
+
+/* Header section start */
+header{
+    height: 200px;
+}
+
+/* logo section start */
+.logo{
+   
+}
+/* logo section end */
+
+/* banner section start */
+.banner{
+
+}
+/* banner section end */
+
+/* Header section end */
+
+/* nav section start */
+nav{
+    height: 60px;
+}
+/* nav section end */
+
+/* main section start */
+main{
+    height: 600px;
+}
+
+/* aside start */
+aside{
+    
+}
+/* aside end */
+/* main section end */
+
+/* big-footer section start */
+.big_footer{
+    height: 200px;
+}
+/* big-footer section end */
+
+/* footer section start */
+footer{
+    height: 80px;
+}
+/* footer section end */
